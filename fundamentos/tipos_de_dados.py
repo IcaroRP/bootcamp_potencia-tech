@@ -1,0 +1,5 @@
+print(str(5+5+1000) + ' - Numeros inteiros')
+print(str(1.5 + 2.75) + ' - Numeros de ponto flutuante')
+print(True)
+print(False)
+print('Python')
